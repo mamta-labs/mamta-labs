@@ -75,11 +75,10 @@ Full-stack assessment platform enabling companies to evaluate students and offer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamta-labs&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamta-labs&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamta-labs&theme=tokyonight" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mamta-labs&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamta-labs&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
